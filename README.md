@@ -1,12 +1,12 @@
-# happy new year animation Repository
-This repository contains amazon clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
+# Amazon Clone Website Repository
+This repository contains Amazon Clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML,CSS.
 
 # Project
-<a href="https://imaginative-gecko-2b940b.netlify.app/">amazon clone website</a>
+<a href="https://p3skyy4.netlify.app/">Amazon Clone Website</a>
 
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
-<p>git clone https://github.com/Karan60/amazon-clone-website.git</p>
+<p>git clone https://github.com/skyy4/amazonClone_website</p>
   
 # Usage
 Each project is contained within its own folder. To view the project, simply open the index.html file in your web browser. The CSS and JavaScript files are also included within the project folder.
