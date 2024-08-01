@@ -4,7 +4,8 @@ This repository contains Amazon Clone that were developed to help developers lea
 # Project
 <a href="https://p3skyy4.netlify.app/">Amazon Clone Website</a>
 <br>
-![Screen Recording 2024-07-31 175458](https://github.com/user-attachments/assets/3e8eefd2-eab2-4d24-8a83-b32adb00108c)
+![p3](https://github.com/user-attachments/assets/584a5bb8-f0a4-46fb-abb9-f4ca4177b246)
+
 
 
 # Installation
